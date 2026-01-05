@@ -18,5 +18,5 @@ Open the project locally and click on the character to hear the sound.
 - JavaScript
 
 ## Purpose
-This project was created as a small practice project to experiment with basic DOM interaction and sound playback.
+Pratice
 
